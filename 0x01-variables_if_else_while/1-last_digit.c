@@ -21,6 +21,6 @@ int main(void)
 	else if (n > 5)
 		printf(" and is greater than 5\n");
 	else if (n == 0)
-		printf(" and 0\n");
+		printf(" and is 0\n");
 	return (0);
 }
