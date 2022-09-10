@@ -1,15 +1,16 @@
 #include <stdio.h>
 /**
- * main - Printing alphabets
+ * main - printing alpabets
  *
- * Description: Using main function
- * Return: 0
+ * Return: 0;
  */
 int main(void)
 {
 	char ap;
 
 	for (ap = 'a'; ap <= 'z'; ap++)
+		putchar(ap);
+	for (ap = 'A'; ap <= 'Z'; ap++)
 		putchar(ap);
 	putchar('\n');
 	return (0);
