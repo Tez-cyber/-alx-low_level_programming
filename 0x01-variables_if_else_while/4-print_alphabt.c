@@ -10,7 +10,7 @@ int main(void)
 
 	for (ap = 'a'; ap <= 'z'; ap++)
 	{
-		if (ap != 'q' && app != 'e')
+		if (ap != 'q' && ap != 'e')
 			putchar(ap);
 	}
 	putchar('\n');
