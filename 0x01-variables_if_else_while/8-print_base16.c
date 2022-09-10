@@ -10,7 +10,7 @@ int main(void)
 	int ap;
 
 	for (n = 0; n < 10; n++)
-		putchar((num % 10) + '0');
+		putchar((n % 10) + '0');
 	for (ap = 'a'; ap <= 'f'; ap++)
 		putchar(ap);
 	putchar('\n');
