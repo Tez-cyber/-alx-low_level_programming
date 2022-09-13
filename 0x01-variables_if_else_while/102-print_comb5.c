@@ -4,7 +4,7 @@
  *
  * Return: 0
  */
-itn main(void)
+int main(void)
 {
 	int num1, num2;
 
