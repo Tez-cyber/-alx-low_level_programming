@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include <unistd.h>
 /**
- * main - Pritn a particular set of char
+ * main - Print a particular set of char
  *
  * Description: Using the main function
  * Return: 1
