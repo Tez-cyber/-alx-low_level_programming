@@ -1,8 +1,9 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef HOLBERTON_H
+#define HOLBERTON_H
 
 /**
- * File: main.h
+ * File: holberton.h
+ * Auth: Brennan D Baraban
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x04-pointers_arrays_strings directory.
  */
