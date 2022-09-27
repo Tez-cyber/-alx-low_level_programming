@@ -1,8 +1,3 @@
-/*
- * File: 1-memcpy.c
- * Auth: Brennan D Baraban
- */
-
 #include "main.h"
 
 /**
@@ -25,3 +20,4 @@ void *_memcpy(void *dest, const void *src, size_t n)
 
 	return (dest);
 }
+ 
