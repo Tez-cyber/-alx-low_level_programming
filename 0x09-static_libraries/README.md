@@ -1,1 +1,1 @@
-Creating Static files
+Creating Static  files
