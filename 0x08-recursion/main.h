@@ -2,7 +2,6 @@
 #define MAIN_H
 
 /**
- * File: holberton.h
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x07-recursion directory.
  */
